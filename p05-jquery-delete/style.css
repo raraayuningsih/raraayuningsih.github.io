@@ -1,0 +1,35 @@
+body {
+  background: #383838;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1{
+  color: #ffffff;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #0b79d9;
+  color: #ffffff;
+  text-align: center;
+  padding: 8px;
+  width: 10px;
+
+}
+
+td:hover {
+  background-color: #4ba9fa;
+}
+
+th:hover {
+  background-color: #4ba9fa;
+}
+
+.judul {
+  text-align: center;
+}
+
+.tabel {
+  border-collapse: collapse;
+  width: 100%;
+}
