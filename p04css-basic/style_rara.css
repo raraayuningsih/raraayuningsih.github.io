@@ -1,0 +1,66 @@
+body {
+   font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+   background-color: #eaf3ff;
+}
+body a {
+   color: #202020;
+}
+body a:hover {
+   color: gray;
+   text-decoration: none;
+}
+
+legend {
+  color: red;
+}
+select:hover {
+  background-color: #dedbd7;
+}
+
+option:hover {
+  background-color: #dedbd7;
+}
+
+input:hover {
+  background-color: #dedbd7;
+}
+
+textarea:hover {
+  background-color: #dedbd7;
+}
+
+.judul {
+  font-family: "poppins";
+  font-size: 30px;
+}
+
+.petunjuk {
+  margin: 0px 0px 0px 1rem;
+  font-size: 25px;
+  color: red;
+}
+
+.top-header {
+  width: 100%;
+  height: auto;
+  background-color: red;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.top-header img {
+  width: 100%;
+  height: auto;
+}
+
+.petunjuk_pengisian {
+  padding-bottom: 1rem;
+  color: red;
+  margin: auto;
+}
+
+button a {
+  color: black;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  text-decoration: none;
+}
